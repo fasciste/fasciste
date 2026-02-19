@@ -12,6 +12,8 @@
 
 ### `$ cat about.txt`
 
+</div>
+
 ```js
 const fasciste = {
     role: "Full-Stack Developer",
@@ -27,6 +29,8 @@ const fasciste = {
 };
 ```
 
+<div align="center">
+    
 <br/>
 
 ### `$ ls skills/`
@@ -43,6 +47,8 @@ const fasciste = {
 
 ### `$ status --current`
 
+</div>
+
 ```
 Forensics & IR ·········· Student
 Full-Stack Dev ·········· Rust / Node / Vue
@@ -51,6 +57,8 @@ CTF Challenges ·········· Active
 Reverse Engineering ····· Learning
 ```
 
+<div align="center">
+    
 <br/>
 
 <a href="https://tryhackme.com/p/DataverseCS"><img src="https://img.shields.io/badge/TryHackMe-DataverseCS-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
@@ -65,4 +73,6 @@ Reverse Engineering ····· Learning
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
 
+</div>
+</div>
 </div>
