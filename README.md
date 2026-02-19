@@ -63,7 +63,7 @@ Reverse Engineering ····· Learning
     
 <br/>
 
-<a href="https://tryhackme.com/p/fasciste"><img src="https://img.shields.io/badge/TryHackMe-DataverseCS-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/fasciste"><img src="https://img.shields.io/badge/TryHackMe-fasciste-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/fasciste"><img src="https://img.shields.io/badge/GitHub-fasciste-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
