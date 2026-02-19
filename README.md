@@ -8,11 +8,9 @@
 
 </div>
 
-<div align="center">
+<br/>
 
 ### `$ cat about.txt`
-
-</div>
 
 ```js
 const fasciste = {
@@ -29,9 +27,10 @@ const fasciste = {
 };
 ```
 
-<div align="center">
     
 <br/>
+
+<div align="center">
 
 ### `$ ls skills/`
 
@@ -44,10 +43,11 @@ const fasciste = {
 <img src="https://skillicons.dev/icons?i=bash,mysql,arch,neovim&theme=dark" />
 
 <br/>
-
-### `$ status --current`
+<br/>
 
 </div>
+
+### `$ status --current`
 
 ```
 Forensics & IR ·········· Student
