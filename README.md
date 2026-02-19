@@ -1,77 +1,114 @@
 <div align="center">
 
-# `> whoami`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=fasciste&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Forensics%20Student&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-### fasciste
+<br/>
 
-**Full-Stack Developer | Digital Forensics Student | Security Enthusiast**
+<a href="https://tryhackme.com/p/DataverseCS"><img src="https://img.shields.io/badge/TryHackMe-DataverseCS-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/fasciste"><img src="https://img.shields.io/badge/GitHub-fasciste-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Building secure software by day, breaking it by night.
+<br/><br/>
 
----
-
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DataverseCS)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fasciste)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=%F0%9F%94%90+Building+secure+software%2C+breaking+the+rest." />
 
 </div>
 
 <br/>
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-name: fasciste
-role: Full-Stack Developer
-education: Digital Forensics & Incident Response
-interests:
-  - Low-level programming
-  - Offensive & Defensive Security
-  - System internals
-  - CTF challenges
-motto: "Understand how things break to build them better."
+### `$ cat about.txt`
+
+```js
+const fasciste = {
+    role: "Full-Stack Developer",
+    education: "Digital Forensics & IR",
+    languages: ["Rust", "Python", "PHP", "JS"],
+    interests: [
+        "Offensive Security",
+        "Malware Analysis",
+        "Reverse Engineering",
+        "CTF Challenges"
+    ],
+    currentlyLearning: "Always something new"
+};
 ```
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-## Tech Stack
-
-### Languages
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Security & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### `$ ls skills/`
 
 <br/>
 
-## Currently
+<img src="https://skillicons.dev/icons?i=rust,python,php,js&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,vue,html&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=css,linux,docker,git&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=bash,mysql,vscode,kali&theme=dark" />
 
-- Studying **Digital Forensics & Incident Response**
-- Sharpening skills on [TryHackMe](https://tryhackme.com/p/DataverseCS)
-- Building full-stack projects with **Rust**, **Node.js** & **Vue**
-- Exploring malware analysis & reverse engineering
+</td>
+</tr>
+</table>
 
 <br/>
-
----
 
 <div align="center">
 
-*"Security is not a product, but a process."* — Bruce Schneier
+### `$ status --current`
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+<br/>
+<img width="50" src="https://img.icons8.com/fluency/96/graduation-cap.png" />
+<br/><br/>
+<b>Forensics & IR</b>
+<br/>
+<sub>Student</sub>
+<br/><br/>
+</td>
+<td width="25%" align="center">
+<br/>
+<img width="50" src="https://img.icons8.com/fluency/96/code.png" />
+<br/><br/>
+<b>Full-Stack Dev</b>
+<br/>
+<sub>Rust / Node / Vue</sub>
+<br/><br/>
+</td>
+<td width="25%" align="center">
+<br/>
+<img width="50" src="https://img.icons8.com/fluency/96/hacker.png" />
+<br/><br/>
+<b>TryHackMe</b>
+<br/>
+<sub><a href="https://tryhackme.com/p/DataverseCS">DataverseCS</a></sub>
+<br/><br/>
+</td>
+<td width="25%" align="center">
+<br/>
+<img width="50" src="https://img.icons8.com/fluency/96/search--v1.png" />
+<br/><br/>
+<b>Malware Analysis</b>
+<br/>
+<sub>Exploring</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" />
 
 </div>
