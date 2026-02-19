@@ -32,7 +32,7 @@ const fasciste = {
 
 <div align="center">
 
-### `$ ls skills/`
+---
 
 <img src="https://skillicons.dev/icons?i=rust,python,php,js&theme=dark" />
 <br/>
@@ -41,6 +41,8 @@ const fasciste = {
 <img src="https://skillicons.dev/icons?i=css,linux,docker,git&theme=dark" />
 <br/>
 <img src="https://skillicons.dev/icons?i=bash,mysql,arch,neovim&theme=dark" />
+
+---
 
 <br/>
 <br/>
