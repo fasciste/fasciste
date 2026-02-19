@@ -37,7 +37,7 @@ const fasciste = {
 <br/>
 <img src="https://skillicons.dev/icons?i=css,linux,docker,git&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=bash,mysql,vscode,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bash,mysql,arch,neovim&theme=dark" />
 
 <br/>
 
