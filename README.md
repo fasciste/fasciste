@@ -8,11 +8,7 @@
 
 </div>
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### `$ cat about.txt`
 
@@ -31,35 +27,28 @@ const fasciste = {
 };
 ```
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### `$ ls skills/`
 
-<br/>
-
 <img src="https://skillicons.dev/icons?i=rust,python,php,js&theme=dark" />
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,vue,html&theme=dark" />
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=css,linux,docker,git&theme=dark" />
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=bash,mysql,vscode,kali&theme=dark" />
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<div align="center">
 
 ### `$ status --current`
 
 ```
- Forensics & IR ········· Student           Malware Analysis ······· Exploring
- Full-Stack Dev ········· Rust / Node / Vue  CTF Challenges ········ Active
- TryHackMe ············· DataverseCS        Reverse Engineering ···· Learning
+Forensics & IR ·········· Student
+Full-Stack Dev ·········· Rust / Node / Vue
+Malware Analysis ········ Exploring
+CTF Challenges ·········· Active
+Reverse Engineering ····· Learning
 ```
 
 <br/>
