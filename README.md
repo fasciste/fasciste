@@ -10,7 +10,7 @@
 
 <br/>
 
-### `$ cat about.txt`
+ `$ cat about.txt`
 
 ```js
 const fasciste = {
@@ -49,7 +49,7 @@ const fasciste = {
 
 </div>
 
-### `$ status --current`
+ `$ status --current`
 
 ```
 Forensics & IR ·········· Student
