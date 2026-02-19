@@ -4,13 +4,7 @@
 
 <br/>
 
-<a href="https://tryhackme.com/p/DataverseCS"><img src="https://img.shields.io/badge/TryHackMe-DataverseCS-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/fasciste"><img src="https://img.shields.io/badge/GitHub-fasciste-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=45&lines=%F0%9F%94%90+Building+secure+software%2C+breaking+the+rest." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%F0%9F%94%90+Building+secure+software%2C+breaking+the+rest." />
 
 </div>
 
@@ -62,48 +56,19 @@ const fasciste = {
 
 ### `$ status --current`
 
-</div>
+```
+ Forensics & IR ········· Student           Malware Analysis ······· Exploring
+ Full-Stack Dev ········· Rust / Node / Vue  CTF Challenges ········ Active
+ TryHackMe ············· DataverseCS        Reverse Engineering ···· Learning
+```
 
-<table>
-<tr>
-<td width="25%" align="center">
 <br/>
-<img width="50" src="https://img.icons8.com/fluency/96/graduation-cap.png" />
-<br/><br/>
-<b>Forensics & IR</b>
-<br/>
-<sub>Student</sub>
-<br/><br/>
-</td>
-<td width="25%" align="center">
-<br/>
-<img width="50" src="https://img.icons8.com/fluency/96/code.png" />
-<br/><br/>
-<b>Full-Stack Dev</b>
-<br/>
-<sub>Rust / Node / Vue</sub>
-<br/><br/>
-</td>
-<td width="25%" align="center">
-<br/>
-<img width="50" src="https://img.icons8.com/fluency/96/hacker.png" />
-<br/><br/>
-<b>TryHackMe</b>
-<br/>
-<sub><a href="https://tryhackme.com/p/DataverseCS">DataverseCS</a></sub>
-<br/><br/>
-</td>
-<td width="25%" align="center">
-<br/>
-<img width="50" src="https://img.icons8.com/fluency/96/search--v1.png" />
-<br/><br/>
-<b>Malware Analysis</b>
-<br/>
-<sub>Exploring</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+
+<a href="https://tryhackme.com/p/DataverseCS"><img src="https://img.shields.io/badge/TryHackMe-DataverseCS-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/fasciste"><img src="https://img.shields.io/badge/GitHub-fasciste-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
 
 <br/>
 
